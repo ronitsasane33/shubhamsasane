@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on ... anything creative
 - 📫 How to reach me ...sasaneshubham79 AT gmail DOT com
 
-<img align="left" alt="SamPusegaonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamsasane&show_icons=true&hide_border=true&count_private=true&theme=vue&include_all_commits=false" />
+<img align="left" alt="SamPusegaonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamsasane&show_icons=true&hide_border=true&count_private=true&theme=dark&include_all_commits=false" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsasane)
 <!---
